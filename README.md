@@ -1,33 +1,18 @@
-Abhishek Singh
-Aspiring Business Analyst | Data Enthusiast
-An aspiring Business Analyst with a strong foundation in data analysis, business strategy, and technical problem-solving. I am experienced with BI tools and analytics platforms, and possess strong communication and project management skills with the ability to translate data insights into actionable business outcomes. I am passionate about using data to solve real-world problems and am always looking for new challenges.
+<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
+<h3 align="center">Aspiring Business Analyst | Data Enthusiast An aspiring Business Analyst with a strong foundation in data analysis, business strategy</h3>
 
-🛠️ Skills & Expertise
-Business Intelligence: Power BI, Tableau, Power Query, Excel Dashboarding
+- 🔭 I’m currently working on [Hr analytics Dashboard](https://github.com/abxishek14/HR-ANALYTICS-DASHBOARD)
 
-Data Analysis & Modeling: SQL, Python (Pandas, NumPy), Data Cleaning, Regression Analysis
+- 👨‍💻 All of my projects are available at [https://github.com/abxishek14/HR-ANALYTICS-DASHBOARD](https://github.com/abxishek14/HR-ANALYTICS-DASHBOARD)
 
-Project Management: Agile Methodology, Requirement Gathering, Business Process Mapping
+- 📫 How to reach me **abxishek14@gmail.com**
 
-Soft Skills: Communication, Stakeholder Engagement, Problem Solving
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abxishek14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abxishek14" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/abxishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/abxishek" height="30" width="40" /></a>
+<a href="https://instagram.com/abxishek14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abxishek14" height="30" width="40" /></a>
+</p>
 
-💼 Projects
-Sales Performance Dashboard: Built an interactive Power BI dashboard for a retail dataset to identify trends, KPIs, and regional sales performance.
-
-Smart Infrastructure Optimization: Analyzed sensor-based data and proposed urban infrastructure improvements. Generated insights using Excel pivot tables and regression techniques.
-
-Customer Churn Analysis: Utilized Python and SQL for exploratory data analysis and developed a predictive model to assess churn risk. Visualized outcomes via Tableau.
-
-🎓 Education
-MBA, Business Administration (Ongoing)
-
-Dayananda Sagar Academy of Technology and Management
-
-B.E., Electronics and Communication
-
-Sir M. Visvesvaraya Institute of Technology
-
-📧 Get in touch
-LinkedIn: http://www.linkedin.com/in/abxishek
-
-Email: abxishek14@gmail.com
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
